@@ -2,4 +2,4 @@
 
 European Countries Lists in this languages:
 
- - HTML
+ - HTML (select)
